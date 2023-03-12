@@ -8,5 +8,6 @@ It now includes steps for Git.
 
 We are in a continuous mode right here!
 
-/**
+We have added some text here for the kicks
+**//
 
